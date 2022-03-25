@@ -1,4 +1,4 @@
-
+import scala.io.StdIn
 
 object BOJ1000 {
   def main(args:Array[String])={
