@@ -1,6 +1,6 @@
 /.metadata/
 
-kyuhyoung/scala/.idea/
+kyuhyoung/scala/.idea/.gitignore
 kyuhyoung/scala/project/
 kyuhyoung/target/
 
