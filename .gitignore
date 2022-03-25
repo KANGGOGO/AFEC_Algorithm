@@ -3,5 +3,5 @@
 kyuhyoung/scala/.idea/.gitignore
 kyuhyoung/scala/project/
 kyuhyoung/target/
-
+kyuhyoung/scala/src/test/scala/
 .idea/
