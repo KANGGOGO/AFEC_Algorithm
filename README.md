@@ -1,4 +1,6 @@
 # AFEC_Algorithm
+# BOJ Account
+* 규형 : lcdoac12(https://www.acmicpc.net/user/lcdoac12)
 
 ## reference
 * 파이썬 e-book (점프 투 파이썬)
