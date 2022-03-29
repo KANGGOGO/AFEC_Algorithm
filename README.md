@@ -1,5 +1,5 @@
 # AFEC_Algorithm
-# BOJ Account
+## BOJ Account
 * 규형 : lcdoac12(https://www.acmicpc.net/user/lcdoac12)
 
 ## reference
