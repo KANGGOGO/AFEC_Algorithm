@@ -1,0 +1,11 @@
+package code_study;
+
+public class prob_10000 {
+
+	public static void main(String[] args) {
+		int A;
+		int B;
+		System.out.println(A+B);
+	}
+
+}

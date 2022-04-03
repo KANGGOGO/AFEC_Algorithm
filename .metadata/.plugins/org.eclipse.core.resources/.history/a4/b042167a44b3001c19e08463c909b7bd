@@ -1,0 +1,21 @@
+package code_study;
+
+import java.util.*;
+
+public class prob_10000 {
+	 public static void main(String[] args){
+	        Scanner sc = new Scanner(System.in);
+	        Random rand = new Random();
+	            int N = sc.nextInt();
+	            int X = sc.nextInt();
+	        if(N>=1 && X>=1){
+	            int num = 0;
+	            for(int j=0 ; j<N ; j++) {
+	                num = sc.nextInt();
+	                if(num<X) {
+	                    System.out.print(num+" ");
+	                }
+	            }sc.close();    
+	        }    
+	 }
+}
