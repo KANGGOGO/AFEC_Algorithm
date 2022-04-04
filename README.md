@@ -1,4 +1,11 @@
 # AFEC_Algorithm
+## Study rule
+* 매주 **최소** 3문제 풀기
+* 미이행시 벌금 5천원
+* 월요일 21:30에 Code review, discussion, Q&A
+
+## BOJ Account
+* 규형 : lcdoac12(https://www.acmicpc.net/user/lcdoac12)
 
 ## reference
 * 파이썬 e-book (점프 투 파이썬)
