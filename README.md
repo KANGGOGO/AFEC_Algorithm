@@ -6,6 +6,7 @@
 
 ## BOJ Account
 * 규형 : lcdoac12(https://www.acmicpc.net/user/lcdoac12)
+* 정원 : joss1224(https://www.acmicpc.net/user/joss1224)
 
 ## reference
 * 파이썬 e-book (점프 투 파이썬)
