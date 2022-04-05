@@ -8,6 +8,7 @@
 * 규형 : lcdoac12(https://www.acmicpc.net/user/lcdoac12)
 * 정원 : joss1224(https://www.acmicpc.net/user/joss1224)
 * 성혁 : rkdtjdgur777(https://www.acmicpc.net/user/rkdtjdgur777)
+* 신율 : onlyou35(https://www.acmicpc.net/user/onlyou35)
 
 ## reference
 * 파이썬 e-book (점프 투 파이썬)
