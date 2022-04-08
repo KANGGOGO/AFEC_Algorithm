@@ -7,6 +7,14 @@ if M < 0:
     M += 60
     H -= 1
     if H < 0:
-        H = 23
+        H += 24
 
-print(str(H) + ' ' + str(M))
+print(H, M)
+
+
+#if M < 0:
+#    M += 60
+#    if H < 0:
+#        H += 24
+#    else:
+#        H -= 1
