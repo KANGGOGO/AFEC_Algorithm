@@ -7,10 +7,10 @@ R = int(input_REQIRED_MINUTE)
 
 M += R
 
-if M > 60:
+if M >= 60:
     H += M // 60
+    M = M % 60
     if H >= 24:
         H -= 24
-    M = M % 60
 
-print(str(H) + ' ' + str(M))
+print(H, M)
