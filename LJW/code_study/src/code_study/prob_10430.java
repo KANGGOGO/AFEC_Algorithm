@@ -8,7 +8,7 @@ public class prob_10430 {
 		 	int A = sc.nextInt();
 		 	int B = sc.nextInt();
 		 	int C = sc.nextInt();
-		 	int ans1 = (A+B)%C는 ((A%C) + (B%C))%C
+		 	
         	System.out.println(A-(2541-1998));
     }
 }    
