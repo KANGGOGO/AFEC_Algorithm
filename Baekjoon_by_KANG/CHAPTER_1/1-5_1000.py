@@ -4,3 +4,8 @@ A = int(input_data[0])
 B = int(input_data[1])
 #문자열 데이터이므로 int 함수로 숫자열로 변경
 print(A+B)
+
+
+# A, B = map(int, input().split())
+# print(A+B)
+# map함수 = (사용하려는 함수, 입력값)
