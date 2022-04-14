@@ -22,3 +22,5 @@ print(price)
 #        price = B * 100
 #    elif C > (A and B):
 #        price = C * 100
+# B and C는 말이 안됨
+# A > B and B > C 로 수정
