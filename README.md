@@ -19,3 +19,5 @@
 * 파이썬 입출력 정리
 	* https://paris-in-the-rain.tistory.com/72
 	* https://daebaq27.tistory.com/57
+* 스칼라 참고
+	* https://groups.google.com/g/scala-korea/search?q=%EC%8A%A4%EC%B9%BC%EB%9D%BC100
